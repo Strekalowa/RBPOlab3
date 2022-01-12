@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RBPO_laba3", "RBPO_laba3\RBPO_laba3.vcxproj", "{3A228356-14B9-4B0E-8C11-BD22A17082AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F9CC2F14-E67D-4BC2-809C-B5FFD4441F88}"
+	ProjectSection(SolutionItems) = preProject
+		BPZ1902.Strekalowa.Lab3.Task3.a.cpp = BPZ1902.Strekalowa.Lab3.Task3.a.cpp
+		BPZ1902.Strekalowa.Lab3.Task3.f1.cpp = BPZ1902.Strekalowa.Lab3.Task3.f1.cpp
+		BPZ1902.Strekalowa.Lab3.Task3.f2.cpp = BPZ1902.Strekalowa.Lab3.Task3.f2.cpp
+		BPZ1902.Strekalowa.Lab3.Task3.f3.cpp = BPZ1902.Strekalowa.Lab3.Task3.f3.cpp
+		BPZ1902.Strekalowa.Lab3.Task3.f4.cpp = BPZ1902.Strekalowa.Lab3.Task3.f4.cpp
+		BPZ1902.Strekalowa.Lab3.Task3.ixx = BPZ1902.Strekalowa.Lab3.Task3.ixx
+		BPZ1902.Strekalowa.Lab3.Task4.a.cpp = BPZ1902.Strekalowa.Lab3.Task4.a.cpp
+		BPZ1902.Strekalowa.Lab3.Task4.a.ixx = BPZ1902.Strekalowa.Lab3.Task4.a.ixx
+		BPZ1902.Strekalowa.Lab3.Task4.f1.cpp = BPZ1902.Strekalowa.Lab3.Task4.f1.cpp
+		BPZ1902.Strekalowa.Lab3.Task4.f1.ixx = BPZ1902.Strekalowa.Lab3.Task4.f1.ixx
+		BPZ1902.Strekalowa.Lab3.Task4.f2.cpp = BPZ1902.Strekalowa.Lab3.Task4.f2.cpp
+		BPZ1902.Strekalowa.Lab3.Task4.f2.ixx = BPZ1902.Strekalowa.Lab3.Task4.f2.ixx
+		BPZ1902.Strekalowa.Lab3.Task4.f3.cpp = BPZ1902.Strekalowa.Lab3.Task4.f3.cpp
+		BPZ1902.Strekalowa.Lab3.Task4.f3.ixx = BPZ1902.Strekalowa.Lab3.Task4.f3.ixx
+		BPZ1902.Strekalowa.Lab3.Task4.f4.cpp = BPZ1902.Strekalowa.Lab3.Task4.f4.cpp
+		BPZ1902.Strekalowa.Lab3.Task4.f4.ixx = BPZ1902.Strekalowa.Lab3.Task4.f4.ixx
+		BPZ1902.Strekalowa.Lab3.Task4.ixx = BPZ1902.Strekalowa.Lab3.Task4.ixx
+		BPZ1902.Strekalowa.Lab3.Task5.ixx = BPZ1902.Strekalowa.Lab3.Task5.ixx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A228356-14B9-4B0E-8C11-BD22A17082AD}.Debug|x64.ActiveCfg = Debug|x64
+		{3A228356-14B9-4B0E-8C11-BD22A17082AD}.Debug|x64.Build.0 = Debug|x64
+		{3A228356-14B9-4B0E-8C11-BD22A17082AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{3A228356-14B9-4B0E-8C11-BD22A17082AD}.Debug|x86.Build.0 = Debug|Win32
+		{3A228356-14B9-4B0E-8C11-BD22A17082AD}.Release|x64.ActiveCfg = Release|x64
+		{3A228356-14B9-4B0E-8C11-BD22A17082AD}.Release|x64.Build.0 = Release|x64
+		{3A228356-14B9-4B0E-8C11-BD22A17082AD}.Release|x86.ActiveCfg = Release|Win32
+		{3A228356-14B9-4B0E-8C11-BD22A17082AD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B36858C4-8683-4AC4-B2D9-35E0BE33787E}
+	EndGlobalSection
+EndGlobal
